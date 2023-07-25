@@ -1,7 +1,7 @@
 # Welcome to VueShop! #
-how to run this project
-node -v : 16.0
-npm -v : 8.0
-npm run dev
-localhost:5173
-Thanks!
+<p>how to run this project</p>
+<p>node -v : 16.0</p>
+<p>npm -v : 8.0</p>
+<p>npm run dev</p>
+<p>localhost:5173</p>
+<p>Thanks!</p>
